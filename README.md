@@ -81,7 +81,7 @@ main()
 	"_postman_exported_using": "Postman/10.15.0"
 }
 ```
-两个扫码示例文件`/home/fan/Documents/zwdd/专有钉钉测试.postman_collection.json`
+两个扫码示例文件`专有钉钉测试.postman_collection.json`
 ```json
 {
 	"info": {
