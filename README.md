@@ -46,3 +46,6 @@ const main = async ()=>{
 
 main()
 ```
+
+## PostMan版本的SDK
+在接口测试的时候，使用postman工具更加多，所以在提供一个postman版本的`zwdd-sdk-postman.js`
